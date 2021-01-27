@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250630133346",
+    "firebase_url": "https://abetech-app.firebaseio.com",
+    "project_id": "abetech-app",
+    "storage_bucket": "abetech-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250630133346:android:c6b2635edf26d77626633b",
+        "android_client_info": {
+          "package_name": "com.abetech_shop.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250630133346-77m0pruk053jsmbtfo4pcpfo882tftot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwmBflL7j9KeKoGCUpnqruvg1zBOSFB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250630133346-77m0pruk053jsmbtfo4pcpfo882tftot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

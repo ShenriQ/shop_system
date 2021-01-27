@@ -1,0 +1,7 @@
+{
+    "root": "F:\\react_native_workspace\\test\\grade_backer_v1\\ios",
+    "node_env": "development",
+    "default_script": "app.js",
+    "apps": {},
+    "web": {}
+}
